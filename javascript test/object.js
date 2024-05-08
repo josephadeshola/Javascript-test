@@ -1,6 +1,6 @@
 class queue {
     constructor(item){
-        this.all = []
+        this.all = {}
         this.item = item
 
     }
@@ -11,7 +11,6 @@ class queue {
         if(this.isFull()){
             this.all.push(item)
         }
-
     }
 }
 

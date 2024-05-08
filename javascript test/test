@@ -1,0 +1,36 @@
+(A)
+
+1. Q server 
+2. AwardSpace
+3. Netlify
+4. Vercel
+5. GitHub
+6. Namechip
+7. MicrosoftAzuru
+8. Zero Zero web hosting
+
+
+
+
+
+(B) 
+
+ (step one)
+ Run npm "run build"
+ (step two)
+ After running npm build this will create dist folder then will upload the dist folder to the Cpanel
+ (step three)
+ Login to your Cpanel
+ (step four)
+ Go to the file you want to deploy and Zip it 
+ (step five)
+ Upload the Zip file to the Cpanel
+ (step six)
+ Unzip the the Zip file
+ (step seven)
+ And make sure the unZip file will be in the public inside our Cpanel 
+ (step eight)
+ Then the project will run life
+ 
+ 
+
